@@ -1,6 +1,6 @@
 name = "aws_lc_jll"
 uuid = "97bc56f7-b146-5eb0-9ba6-f74d48471a93"
-version = "1.48.2+0"
+version = "1.48.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
