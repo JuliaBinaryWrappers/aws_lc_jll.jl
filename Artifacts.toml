@@ -1,264 +1,264 @@
 [[aws_lc]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8485e2e50405e7898fe6c986990fe3763b3743fb"
+git-tree-sha1 = "481565da7aa8da17ff7387a889490fcfc0736ac6"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "76a469df4b9de13134d2c976e1406986d3c2d25ecfe579a3a43b99621761b70f"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "58e98196d9f5c0eb6aa885d863193f82c2feb4b977bfb84742d785821cb1e63b"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[aws_lc]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "809c82af3d2d8fe62c0f2644ef9ab227fc4dfdfe"
+git-tree-sha1 = "789370d2722c51a87073062739db7b478afb4bf0"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "668fe05cc52b661b2b8d4f41b61ea7769fa39bb7edd390656a86309854179b82"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7c37a873b2b30000a6d4f112027b6dada208b09fa1f201c297b51ce40f192468"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[aws_lc]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1de176a60e8fe5dc486daa4f0945d7f345d3854e"
+git-tree-sha1 = "c51728135c47cad19bf2d388830631c601fd3b72"
 libc = "musl"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "701d0bf40ae78efedcf1d501c11177bfd02fa1975bbb57278802b6520e17a9c6"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "a77e4da5c1e3453b2d767742515fa3d089ef98c793658a97949ae0ab78181b54"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.aarch64-linux-musl-cxx03.tar.gz"
 [[aws_lc]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "22645018292e8d328752c5a0cc69e68bbe36a091"
+git-tree-sha1 = "da59afc36a3f79a2c40308830c47434d5e65e82e"
 libc = "musl"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "ec024a22d13c735a21fd7d73883d7e28cf9490397783e874e3a183df412fc60b"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "5bdb9c49b508517297899fcc9bdea253af65524ca2894c5f6afd4c1a9fb5cd90"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.aarch64-linux-musl-cxx11.tar.gz"
 [[aws_lc]]
 arch = "aarch64"
-git-tree-sha1 = "4e9cd951d84181db9d4315197f296bd1f5a0f0a0"
+git-tree-sha1 = "9227e706cdeb1150111f06fe5e9dd9de88d0d803"
 os = "freebsd"
 
     [[aws_lc.download]]
-    sha256 = "9ebb38a5b5b0f80d77cd0fb6acf91569526f83f90606704c914cdcf0272107b9"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "4fd0ad5a2db37fb055389dbdd1ff5c5778909354d94d80c3f1f65ba3e0a71e1e"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.aarch64-unknown-freebsd.tar.gz"
 [[aws_lc]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9c389e4de2ae7c5dfa6503281d0fe231a6b3cac4"
+git-tree-sha1 = "4dd97d258bd5f66128ce664188159a585d540971"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "bacd79bcbb3f530d80e20804e2530720575501a854c7edb97d658f7fd7ca57da"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "99c55727fa561524ead33d08bb88168343dc92d0600b5bc2f9a260303a089e55"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[aws_lc]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6fbaa07969d2765d80de1d0cec4cc236faffd236"
+git-tree-sha1 = "ad8d47cb8216c16161882fddf88ecda04cab2911"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "14a2a8712e0fe09c518edec90e797802ef4de7cb235b4dd8474a4492d880e3ec"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "ca5b6b6e491504e54af45bd3b52b7abf09553908d8d630bb4e0f2339cf90c796"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[aws_lc]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "88959b6de53bca64aa5df31dab23668882fdaaf1"
+git-tree-sha1 = "d8fabc1a97e39351bdf19663a6ce4cfc8915c2d3"
 libc = "musl"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "dcacd3c3d7431359918672d7e88e432e31d05e8cfbe4c4cb3e58799686eeeaaa"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "8c9a56e5d3f91d37020497ec085b2f3185c5d0456276741a79bf1399897b3507"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[aws_lc]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "664bfbd21ae4465b1dfe06372fb61b6abb3cd91b"
+git-tree-sha1 = "9ecd7cfc097586cd58c51380eb929b33a9684462"
 libc = "musl"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "b42d296f6a52ca7eb7b2ea43af384a3e0b1bebd9a1435263156f577f84247221"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "e43917e7db3e52b1c30a5d708815a2d1baf3a949729fcb580850f09f47bb0ca0"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[aws_lc]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e3ccdfcbc727b89f230622b79faed3e83bf1f802"
+git-tree-sha1 = "ea13666f0a979d8841e12171b1ecc86fe7963082"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "00008654a7c560777412886d65bf43a14f9780220861b7714563935a8158f7c7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "84f09f3b169b44c7a66b8d66efdca49ce6eb7703afdc9d2860b4ceaba5f6904b"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[aws_lc]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "80d856e448fbbf6b90bdeb8cf58875d6a02f8cf5"
+git-tree-sha1 = "e7ee9387a5a43ef2dd266539650b3592bf381a1b"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "56bfa38f69585bcf2b7075f15cefe6b6a1392946ccc3f35f016fe4939330c0ec"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "91b6b6ca60cd1a516db608063400eaf01e7e2db5f627bb97cacb3ce3fd789d08"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[aws_lc]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b5a9543bef4712903d95dbd59ed1c738bb2006e5"
+git-tree-sha1 = "2ac942ed516f33b776d52d47c1fbcc4c9bf352df"
 libc = "musl"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "b74f21ffc779f41bb8d4c983a0e1fc182c3380227179e8b9d00d1125d78c0445"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "1859a56bd3ab5dbcbcfdeac6caebcd41b6549a530fbd9b7feae5045f1a414a93"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[aws_lc]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "75d6f1d4dd8390e9428ea8d1dd4573a7bcb58a7e"
+git-tree-sha1 = "923c0a8b6515582e89a73c46bbc19e7724c35014"
 libc = "musl"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "c63780591de9e50f7e16629b1c00ac7f64322ede274353d264334596331b144a"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "9cea86c19b91dfadb167d8be5278508c4c740d7b45f6f887651cda6d67cd8560"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[aws_lc]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "68aa3a2781b9634280d35500b87ca6d6001f59c1"
+git-tree-sha1 = "e2bc543b3634e66f2c5019501748cc40496bc978"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "58f2b08af6a7d20f860c9262de5db1f733a6bc8c025432ec738803a4c792803c"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "47f946d6878a6df1b1c64693e1629ec62cf010807b3d39f4a5230032730b1020"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.i686-linux-gnu-cxx03.tar.gz"
 [[aws_lc]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "14bd37c95a06c4055f6fb71f382dfe4eb676e671"
+git-tree-sha1 = "916d66836802590b410bb4637c6c8e0d2acb2431"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "d4226a60ce8d151f0ff16066600fbd60b1eb8f1d5fabbab6ca3804d4df454e61"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "46fa07a6d4b932a8d58752937b9da194c75539285833b2d871b439ad3b4652b5"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.i686-linux-gnu-cxx11.tar.gz"
 [[aws_lc]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a6495814a065e2ed3fc6bf9d3fdbf2f4eb561501"
+git-tree-sha1 = "7da4a8b2c03f6b3ce1dbdfeb96e3e9fd72ef9c4c"
 libc = "musl"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "ed89a90b8f3600d92e64079dab0c832ed8577e5ba21522d10163f796d2f507fd"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "94d50038ad67dd7557ceb5db2fa7117ffcb4412aae95b27623155e602a28ebe6"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.i686-linux-musl-cxx03.tar.gz"
 [[aws_lc]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1c0b53a327faa7bb12927cacb0d80de8a16234ad"
+git-tree-sha1 = "59e2b89c75491d6d3581d660d0cf1d7ec5f7ee87"
 libc = "musl"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "4c0808042847cf1f258ba7206822c0ea7334f8e825e2ac13d7caef375f54f8ae"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "9f343469f3780b2770503fda02b323ef002e2c4b6f68910e22c543c20e054aea"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.i686-linux-musl-cxx11.tar.gz"
 [[aws_lc]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0e96b64a9ed7fc51b797bfbe4c5d2cbbb3502d49"
+git-tree-sha1 = "2452d025d2f68424b9609d7e69b073fe9153b828"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "11d8eecaf36e3223343de7cf8194bd39fc35f4f440c33d293fff61b95f57c126"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "8b51f30db1e279b0dfbd1f6fc678e0d8c62eee8d9759abb035007f6392f381e5"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[aws_lc]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2b1dbd86c6891c84b9a04622cf9bdeaa869d8175"
+git-tree-sha1 = "29dc36b1d2a543b01e9cd3b593d6d039bcce4bed"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "9aa3d52907ec593cffe1481027db5e2b39518fc801af7c4d6f110ae776c5adb4"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "42417f60bf278169f6c7d3cc062cb218a254dd102d2e813d769677d265234247"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[aws_lc]]
 arch = "riscv64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "36183a6023be86e4113d0da4b0d780526c3ffa70"
+git-tree-sha1 = "1b01112d829cf4e0840301fadd31bf23d6b27cec"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "2f43c979c2c237ec39d8a09e0da0742b85cfa1a9ee700c9b62b17156b54b7329"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.riscv64-linux-gnu-cxx03.tar.gz"
+    sha256 = "37a69056e0f9f7b2868a100ecfcf4d58a6661ad5f55fef14b3696d6dada8b15d"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.riscv64-linux-gnu-cxx03.tar.gz"
 [[aws_lc]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a99bf3f4217741639a5e2b73501d1eda154f412c"
+git-tree-sha1 = "eb60f2ef5799ca9f4e3185f5159fce90fa470be3"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "a2e77b9a706c93e9c674ec175668f31eda69548a3d1bbd6b3450b76427c53ef4"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7713999ababf0b6a4c09dc3799d07fc3789fa30e2117b7e6960272f2bf7dacbd"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.riscv64-linux-gnu-cxx11.tar.gz"
 [[aws_lc]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5de5a73a7276a4e78d51e797b6ad0c9d22ef4fe9"
+git-tree-sha1 = "efe5f7f80a993fda9d67773bc45094724e2d5961"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "5f5d62413f6d3c7ca376e0c047023aaadcc4cdd872e23cf2729d7b11716fda1e"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "436cae4effe62fef774ccb4764ec36383052fb8951c0756e933df0454c494689"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[aws_lc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f4d13718b4fb251aab78e5e68b49ed4f887e92a2"
+git-tree-sha1 = "28be4a8f6296f44f765ad88a71fa1c898e702fef"
 libc = "glibc"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "a018c88ee731867381e4fb11af30ec446dd9a637a27f11d3659a617d02c6d6d7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7452b9a82afc6b0a1cdc1635bbbd103ba4966833a0605f73b8a73957fc1c6147"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[aws_lc]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8e5027142d86909f9d36fb90387e204672f5280f"
+git-tree-sha1 = "0a73095ea7a7b8c29752654b4f26fdf10f704082"
 libc = "musl"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "aa867c474a62da979d8407c7dd8c8f5df4261308e6107ca1ab39d85aa6cc642d"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "e728ec6abcd0739cc7c9ea97c46bc1e1b669ab7394714e326ab836593457070e"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.x86_64-linux-musl-cxx03.tar.gz"
 [[aws_lc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eda7a0e72901a90f7ef38d6ff31fa67fbacf6578"
+git-tree-sha1 = "0076faac8b70e72c19452d1c9008e084bd2413ed"
 libc = "musl"
 os = "linux"
 
     [[aws_lc.download]]
-    sha256 = "99c286d229fda09ab1474d1d694353486c23961e587aefba90d38534f9d270ee"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "c8ae516618a685bfd3c27d5096186d27705e333812974eaa4f580dad7f33077a"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.x86_64-linux-musl-cxx11.tar.gz"
 [[aws_lc]]
 arch = "x86_64"
-git-tree-sha1 = "42f030216f911920f7782e278e65fcc12b1daf67"
+git-tree-sha1 = "4e7fa7cd6c3b240bcc526b0d98d56f30fc6e3402"
 os = "freebsd"
 
     [[aws_lc.download]]
-    sha256 = "4200eb3eb5f8a508a1d1fd86b5f93d874faff1e33f9a0390537a714cdae1a372"
-    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.57.1+0/aws_lc.v1.57.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "8c2474e7b75c0fa01115faab23f525b01c57389d56c0659439796ed973e08234"
+    url = "https://github.com/JuliaBinaryWrappers/aws_lc_jll.jl/releases/download/aws_lc-v1.58.0+0/aws_lc.v1.58.0.x86_64-unknown-freebsd.tar.gz"
